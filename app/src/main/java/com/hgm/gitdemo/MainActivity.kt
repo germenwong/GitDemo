@@ -22,9 +22,8 @@ class MainActivity : ComponentActivity() {
                               modifier = Modifier.fillMaxSize(),
                               color = MaterialTheme.colorScheme.background
                         ) {
-                              Text(text = "我是dev分支")
-                              Text(text = "我是dev分支")
-                              Text(text = "我是dev分支")
+                              Text(text = "我是部署分支")
+                              Text(text = "我是部署分支")
                         }
                   }
             }
